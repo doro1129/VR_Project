@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/example1.unity
-    guid: 5ba67dae828079b4692ccf7d9426328f
+    path: Assets/Scenes/scifi_warehouse1.unity
+    guid: 14eca888b84c98c44ba33b6c313a9c2a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e75791486976cce428a1acbca4b94d05, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 5f21416366dde684f8b132cea900b1f3, type: 2}
